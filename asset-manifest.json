@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cafe-and-java/static/css/main.e6c13ad2.css",
+    "main.js": "/cafe-and-java/static/js/main.15c4642f.js",
+    "static/media/coffeeTable.jpg": "/cafe-and-java/static/media/coffeeTable.d26c065ff1019253af74.jpg",
+    "static/media/dessert.jpg": "/cafe-and-java/static/media/dessert.a966911a7627904a2d67.jpg",
+    "static/media/CoffeeCup.png": "/cafe-and-java/static/media/CoffeeCup.fa172ec91ce88c8df727.png",
+    "index.html": "/cafe-and-java/index.html",
+    "main.e6c13ad2.css.map": "/cafe-and-java/static/css/main.e6c13ad2.css.map",
+    "main.15c4642f.js.map": "/cafe-and-java/static/js/main.15c4642f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.15c4642f.js"
+  ]
+}
