@@ -1,0 +1,17 @@
+.background {
+  background-color: blueviolet;
+}
+
+@keyframes pulsate {
+  0% {
+    background-color: #1a2980;
+  }
+
+  50% {
+    background-color: #26d0ce;
+  }
+
+  100% {
+    background-color: #1a2980;
+  }
+}
